@@ -19,7 +19,7 @@ The demos below will help to visually explain the approach that consists of thre
 ### Output (Video)
 This demo video is performed on the public “OXFORD TOWN CENTRE” dataset
 
-![This demo video is performed on the public “OXFORD TOWN CENTRE” dataset](https://github.com/rajanant49/Social-Distancing-Detector/blob/main/output.webm)
+![This demo video is performed on the public “OXFORD TOWN CENTRE” dataset](https://github.com/rajanant49/Social-Distancing-Detector/blob/main/output.gif)
 
 
 ### Requirements:
